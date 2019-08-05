@@ -3,4 +3,4 @@ applications:
 - name: spring-music-dev
   memory: 512M
   instances: 1
-  host: bb-spring-music-dev
+  host: spring-music-dev-gdb
