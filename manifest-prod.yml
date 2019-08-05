@@ -1,6 +1,6 @@
 ---
 applications:
 - name: spring-music
-  memory: 512M
+  memory: 1G
   instances: 1
-  host: bb-spring-music
+  host: spring-music-gdb
